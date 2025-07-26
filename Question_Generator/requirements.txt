@@ -88,7 +88,6 @@ jupyterlab_server==2.27.3
 kiwisolver==1.4.8
 lark==1.2.2
 lazy_loader==0.4
-Levenshtein==0.27.1
 lightgbm==4.6.0
 llvmlite==0.44.0
 markdown-it-py==3.0.0
@@ -150,7 +149,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-jose==3.4.0
 python-json-logger==3.3.0
-python-Levenshtein==0.27.1
 python-multipart==0.0.20
 pytz==2025.2
 pywinpty==2.0.15
@@ -220,3 +218,6 @@ wsproto==1.2.0
 xgboost==3.0.2
 xyzservices==2025.4.0
 yarl==1.18.3
+
+
+
